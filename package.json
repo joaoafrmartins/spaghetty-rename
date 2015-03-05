@@ -1,0 +1,27 @@
+{
+  "name": "spaghetty-rename",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "Spaghetty Rename",
+  "keywords": [
+    "spaghetty",
+    "rename"
+  ],
+  "dependencies": {
+    "a-cli-command": "",
+    "diff": "",
+    "colors": "",
+    "async": ""
+  },
+  "devDependencies": {
+    "a-cli-domain": ""
+  },
+  "homepage": "https://github.com/joaoafrmartins/spaghetty-rename",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/spaghetty-rename.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/spaghetty-rename/issues"
+  }
+}
